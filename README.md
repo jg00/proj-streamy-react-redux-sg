@@ -6,8 +6,8 @@ Creator of stream can create/edit/delete their own streams.
 
 ###### App Folders
 
-api - JSON Server
-client - React
+- api - JSON Server
+- client - React
 
 ###### Frontend
 
